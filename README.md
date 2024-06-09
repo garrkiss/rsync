@@ -10,7 +10,7 @@
 
 ### Решение 1
 
-![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_18.58.44.png)
+![Скрин](https://github.com/garrkiss/rsync/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2009.06.24_10.26.12.png)
 
 
 ### Задание 2
@@ -25,9 +25,9 @@
 6. 
 ### Решение 2
 
-[haproxy конфиг2](https://github.com/garrkiss/cluster_and_balance/blob/main/files/haproxy2tasks.cfg)
+[backup.sh](https://github.com/garrkiss/rsync/blob/main/files/backup.sh)
 
-
-![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_19.32.48.png)
+![Скрин](https://github.com/garrkiss/rsync/blob/main/img/image.png)
+![Скрин](https://github.com/garrkiss/rsync/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2009.06.24_10.42.18.png)
 
 
