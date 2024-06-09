@@ -10,8 +10,6 @@
 
 ### Решение 1
 
-[haproxy конфиг](https://github.com/garrkiss/cluster_and_balance/blob/main/files/haproxy.cfg)
-
 ![Скрин](https://github.com/garrkiss/cluster_and_balance/blob/main/img/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%2005.06.24_18.58.44.png)
 
 
